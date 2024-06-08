@@ -5,7 +5,6 @@ Created on Sat Jun  8 12:18:55 2024
 
 @author: ishikaishani
 """
-
 import numpy as np
 import pickle 
 from catboost import CatBoostRegressor
